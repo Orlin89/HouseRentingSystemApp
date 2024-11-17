@@ -1,0 +1,12 @@
+B:\Back-End Test Automation\06.Exercise Continuous Integration (CI)\02-House-Renting-System-App\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.deps.json
+B:\Back-End Test Automation\06.Exercise Continuous Integration (CI)\02-House-Renting-System-App\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.runtimeconfig.json
+B:\Back-End Test Automation\06.Exercise Continuous Integration (CI)\02-House-Renting-System-App\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.dll
+B:\Back-End Test Automation\06.Exercise Continuous Integration (CI)\02-House-Renting-System-App\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.pdb
+B:\Back-End Test Automation\06.Exercise Continuous Integration (CI)\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.csproj.AssemblyReference.cache
+B:\Back-End Test Automation\06.Exercise Continuous Integration (CI)\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+B:\Back-End Test Automation\06.Exercise Continuous Integration (CI)\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.AssemblyInfoInputs.cache
+B:\Back-End Test Automation\06.Exercise Continuous Integration (CI)\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.AssemblyInfo.cs
+B:\Back-End Test Automation\06.Exercise Continuous Integration (CI)\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.csproj.CoreCompileInputs.cache
+B:\Back-End Test Automation\06.Exercise Continuous Integration (CI)\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.dll
+B:\Back-End Test Automation\06.Exercise Continuous Integration (CI)\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.pdb
+B:\Back-End Test Automation\06.Exercise Continuous Integration (CI)\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.genruntimeconfig.cache
