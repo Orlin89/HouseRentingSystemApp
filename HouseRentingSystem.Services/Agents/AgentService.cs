@@ -40,7 +40,7 @@ namespace HouseRentingSystem.Services.Agents
             this.data.Agents.Add(agent);
             this.data.SaveChanges();
         }
-
+        // some comments
 
     }
 }
